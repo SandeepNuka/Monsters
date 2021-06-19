@@ -1,0 +1,13 @@
+.Input {
+  margin: 20px;
+  border: 2px solid black;
+  padding: 10px;
+}
+input.plceholder {
+  text-shadow: green;
+}
+h1 {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 50px;
+}
